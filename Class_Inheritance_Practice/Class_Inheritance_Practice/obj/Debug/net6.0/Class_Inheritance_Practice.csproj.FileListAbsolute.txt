@@ -1,0 +1,14 @@
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Class_Inheritance_Practice\Class_Inheritance_Practice\bin\Debug\net6.0\Class_Inheritance_Practice.exe
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Class_Inheritance_Practice\Class_Inheritance_Practice\bin\Debug\net6.0\Class_Inheritance_Practice.deps.json
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Class_Inheritance_Practice\Class_Inheritance_Practice\bin\Debug\net6.0\Class_Inheritance_Practice.runtimeconfig.json
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Class_Inheritance_Practice\Class_Inheritance_Practice\bin\Debug\net6.0\Class_Inheritance_Practice.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Class_Inheritance_Practice\Class_Inheritance_Practice\bin\Debug\net6.0\Class_Inheritance_Practice.pdb
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Class_Inheritance_Practice\Class_Inheritance_Practice\obj\Debug\net6.0\Class_Inheritance_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Class_Inheritance_Practice\Class_Inheritance_Practice\obj\Debug\net6.0\Class_Inheritance_Practice.AssemblyInfoInputs.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Class_Inheritance_Practice\Class_Inheritance_Practice\obj\Debug\net6.0\Class_Inheritance_Practice.AssemblyInfo.cs
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Class_Inheritance_Practice\Class_Inheritance_Practice\obj\Debug\net6.0\Class_Inheritance_Practice.csproj.CoreCompileInputs.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Class_Inheritance_Practice\Class_Inheritance_Practice\obj\Debug\net6.0\Class_Inheritance_Practice.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Class_Inheritance_Practice\Class_Inheritance_Practice\obj\Debug\net6.0\refint\Class_Inheritance_Practice.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Class_Inheritance_Practice\Class_Inheritance_Practice\obj\Debug\net6.0\Class_Inheritance_Practice.pdb
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Class_Inheritance_Practice\Class_Inheritance_Practice\obj\Debug\net6.0\Class_Inheritance_Practice.genruntimeconfig.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\Class_Inheritance_Practice\Class_Inheritance_Practice\obj\Debug\net6.0\ref\Class_Inheritance_Practice.dll
